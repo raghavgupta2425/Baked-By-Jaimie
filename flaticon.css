@@ -1,12 +1,12 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 20/02/2018 13:09
+  	
   	*/
 
 @font-face {
   font-family: "Flaticon";
   src: url("Flaticon.eot");
-  src: url("Flaticond41d.eot?#iefix") format("embedded-opentype"),
+  src: url("Flaticond41d.eot") format("embedded-opentype"),
        url("Flaticon.woff") format("woff"),
        url("Flaticon.ttf") format("truetype"),
        url("Flaticon.svg#Flaticon") format("svg");
