@@ -2004,7 +2004,7 @@ i:before {
 /* Cake Welcome Feature Area css
 ============================================================================================ */
 .welcome_bakery_area {
-  background: url(../img/welcome-bg.jpg) no-repeat scroll center center;
+  background: url(welcome-bg.jpg) no-repeat scroll center center;
   background-size: cover;
   position: relative;
   z-index: 3;
@@ -2012,7 +2012,7 @@ i:before {
 
 .welcome_bakery_area:before {
   content: "";
-  background: url(../img/w-left-techture.png) no-repeat scroll center center;
+  background: url(w-left-techture.png) no-repeat scroll center center;
   position: absolute;
   left: 0px;
   top: 0px;
@@ -2023,7 +2023,7 @@ i:before {
 
 .welcome_bakery_area:after {
   content: "";
-  background: url(../img/w-right-techture.png) no-repeat scroll center center;
+  background: url(w-right-techture.png) no-repeat scroll center center;
   position: absolute;
   right: 0px;
   top: 0px;
