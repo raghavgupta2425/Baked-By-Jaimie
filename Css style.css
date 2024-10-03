@@ -1854,7 +1854,7 @@ i:before {
 /* Banner Area css
 ============================================================================================ */
 .banner_area {
-  background: url(banner-bg.jpg) no-repeat scroll center center;
+  background: url(..banner-bg.jpg) no-repeat scroll center center;
   background-size: cover;
 }
 
@@ -2006,7 +2006,7 @@ i:before {
 /* Cake Welcome Feature Area css
 ============================================================================================ */
 .welcome_bakery_area {
-  background: url(welcome-bg.jpg) no-repeat scroll center center;
+  background: url(..welcome-bg.jpg) no-repeat scroll center center;
   background-size: cover;
   position: relative;
   z-index: 3;
@@ -2025,7 +2025,7 @@ i:before {
 
 .welcome_bakery_area:after {
   content: "";
-  background: url(w-right-techture.png) no-repeat scroll center center;
+  background: url(..w-right-techture.png) no-repeat scroll center center;
   position: absolute;
   right: 0px;
   top: 0px;
@@ -2271,7 +2271,7 @@ i:before {
 ============================================================================================ */
 .error_area {
   text-align: center;
-  background: url(error-bg.jpg) no-repeat scroll center center;
+  background: url(..error-bg.jpg) no-repeat scroll center center;
   background-size: cover;
   min-height: 834px;
   display: -webkit-box;
