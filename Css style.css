@@ -2271,7 +2271,7 @@ i:before {
 ============================================================================================ */
 .error_area {
   text-align: center;
-  background: url(../img/error-bg.jpg) no-repeat scroll center center;
+  background: url(error-bg.jpg) no-repeat scroll center center;
   background-size: cover;
   min-height: 834px;
   display: -webkit-box;
